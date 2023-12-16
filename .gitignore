@@ -1,0 +1,4 @@
+.idea
+venv
+passwords.json
+salt.txt
