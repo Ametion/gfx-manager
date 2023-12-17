@@ -12,17 +12,29 @@ A simple and secure command-line password manager written in Python. This applic
 ## Prerequisites
 
 - Python 3.x installed on your system.
+- `pip` for installing Python packages.
 
 ## Installation
 
-1. Clone or download this repository to your local machine.
-2. Navigate to the downloaded directory.
+1. Clone the repository to your local machine:
 
    ```bash
-   cd path/to/password-manager
+   git clone https://github.com/Ametion/gfx-manager.git
    ```
 
-3. No additional installation is required as the application uses standard Python libraries.
+2. Navigate to the downloaded directory:
+
+   ```bash
+   cd gfx-manager
+   ```
+
+3. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   This will install necessary packages as specified in `requirements.txt`.
 
 ## Usage
 
